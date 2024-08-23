@@ -5,7 +5,7 @@ Kaikki koodit on luotu OpenAI chat gpt tekoälyn avulla.
 
 Koodit testattu Visual Studio Code:lla. 
 
-Koodit voi vaatia erilaisten kirjastojen ja ohjelmistojen asentamista enne kuin ne toimii. 
+Koodit voi vaatia erilaisten kirjastojen ja ohjelmistojen asentamista ennenkuin ne toimii. 
 
 Ensin opeta neuroverkko koodilla opetaneuroverkko.py .
 
