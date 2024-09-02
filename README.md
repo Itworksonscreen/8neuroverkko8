@@ -11,7 +11,7 @@ Koodit testattu Visual Studio Code:lla.
 
 Koodit voi vaatia erilaisten kirjastojen ja ohjelmistojen asentamista ennenkuin ne toimii. 
 
-Ensin opeta neuroverkko koodilla opetaneuroverkko.py .
+Aloita ensin opeta neuroverkko koodilla opetaneuroverkko.py .
 
 Halutessa voit tarkistaa miltä neuroverkko näyttää koodilla visualisoineuroverkonyhteydetvareilla.py .
 
