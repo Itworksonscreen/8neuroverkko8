@@ -1,7 +1,7 @@
 # 8neuroverkko8
 Yksinkertainen kokeilu neuroverkolla jossa 8 sisääntuloa 16 neuronia ja 8 ulostuloa.
 
-Kaikki koodit on luotu OpenAI chat gpt tekoälyn avulla.
+Kaikki koodit on luotu OpenAI Chat GPT tekoälyn avulla.
 
 Koodit testattu Visual Studio Code:lla. 
 
